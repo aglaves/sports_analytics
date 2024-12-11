@@ -168,3 +168,8 @@ cython_debug/
 #.idea/
 runs
 yolov8x.pt
+models/*
+.DS_Store
+training/runs
+training/football-players-detection-1
+training/yolov5xu.pt
